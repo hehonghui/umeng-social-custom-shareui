@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">自定义分享UI</string>
+    <string name="custom">自定义分享界面 (directShare)</string>
+    <string name="custom_post">自定义分享界面 (postShare)</string>
+
+</resources>

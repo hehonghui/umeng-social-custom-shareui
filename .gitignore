@@ -1,0 +1,5 @@
+.project
+project.properties
+bin/
+gen/
+.DS_Store
