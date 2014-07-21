@@ -2,6 +2,7 @@
 ===========================
 
 #步骤简述
+
 > * 1、初始化UMSocialService；
-  * 2、自定义UI；
-  * 3、根据用户点击的平台，然后调用directShare或者postShare进行分享到该平台；
+> * 2、自定义UI；
+> * 3、根据用户点击的平台，然后调用directShare或者postShare进行分享到该平台；    
